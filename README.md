@@ -1,1 +1,1 @@
-# Yulu_bikes_statistical_study
+Analyzed Yulu's bike-sharing data to identify the key factors influencing customer demand. Performed exploratory data analysis and statistical hypothesis testing, including \textbf{ANOVA and Chi-Square tests}, to examine the relationship between bike rentals and variables such as season, weather, working days, and other environmental conditions, translating the findings into actionable business recommendations.
